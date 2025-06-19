@@ -1,0 +1,632 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: SETTINGS
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: INFO
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Exit
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: BACK
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Old Password
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Dont have an account? Sign Up now!
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Back
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: WAITING FOR OTHER PLAYER
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: WAIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: CHOOSE MODE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: ENTER PASSWORD
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PLAYER 1 NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: CONTINUE
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: NAME YOUR CHARACTER
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SELECT CHARACTER
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Create Lobby
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Log in
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Enter text...
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: '######'
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Password
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: READY
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Sounds Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Single Player
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: New Password
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Quickplay
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Funded by the European Union. Views and opinions expressed are however
+        those of the author(s) only and do not necessarily reflect those of the European
+        Union or the European Education and Culture Executive Agency (EACEA). Neither
+        the European Union nor EACEA can be held responsible for them. 2023-1-SE01-KA220-SCH-00015224
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: SignUp
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Show Password
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Email Address
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Name
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Forgot Password?
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: PLAY SOLO
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Another player hasn't been found. Would you like to keep waiting or play
+        by yourself?
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Music Volume
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Join Lobby
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Please Give me the text for the instructions of the game
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: JOIN
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Complete
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Questions
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Score
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Skip Question
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Time Played
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: connection to the game server has been lost. you will be returned to
+        the main menu sreen..
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Proceed
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Wait for your turn
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: QUESTION
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Time Left
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Continue
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Pause
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    - Term: Pause Menu
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Swedish (Sweden)
+      Code: sv-SE
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Greek
+      Code: el
+      Flags: 0
+    - Name: Romanian
+      Code: ro
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
